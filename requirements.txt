@@ -2,3 +2,4 @@ pyfiglet
 telethon
 requests
 cryptography
+python-telegram-bot
